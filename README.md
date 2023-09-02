@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on c#<br>🌱 I’m currently learning android
+🔭 I’m currently working on c# and Mssql <br>🌱 I’m currently learning AI
 
 
 ## 🌐 Socials:
