@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Web**
 
-- 🌱 I’m currently learning **Web, AI**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **ofk.kurt@hotmail.com**
 
